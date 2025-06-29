@@ -9,8 +9,8 @@ export const getData = () => {
 
     var data = [
       {
-        name: '视频解析接口不对外开放',
-        url: '******'
+        name: '接口1',
+        url: 'https://jx.2s0.cn/player/?url='
       }
     ]
 
