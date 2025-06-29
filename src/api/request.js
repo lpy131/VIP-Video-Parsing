@@ -9,8 +9,8 @@ export const getData = () => {
 
     var data = [
       {
-        name: '接口1',
-        url: 'https://jx.2s0.cn/player/?url='
+        name: 'kkkk',
+        url: 'https://jx.xmflv.cc/?url='
       }
     ]
 
